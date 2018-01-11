@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestViewPager</string>
+    <string name="fragment_one">fragment_one</string>
+    <string name="fragmenttwo">fragmenttwo</string>
+</resources>
