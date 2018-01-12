@@ -5,5 +5,5 @@ An android demo for test viewpager
 
 
 
-<img src="http://img.blog.csdn.net/20161028230559575" width="150" height="200" alt="图片描述文字"/>
+<img src="https://github.com/ytuglt/TestViewPager/blob/master/images/show.gif" width="150" height="200" alt="图片描述文字"/>
 
